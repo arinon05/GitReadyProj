@@ -5,6 +5,7 @@ public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	
 		
+        //random comment
 		 Scanner scnr = new Scanner(System.in);
 
 	      int dollar = 0;
